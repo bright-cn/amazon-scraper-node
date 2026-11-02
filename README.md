@@ -8,7 +8,7 @@
 
 使用 JavaScript，以 JSON 格式获取 Amazon 商品、评论、卖家和搜索结果。无需登录，也无需浏览器。基于 [Bright Data Amazon 爬虫工具 API](https://www.bright.cn/products/web-scraper/amazon?utm_source=github) 构建。
 
-使用 [Bright Data JavaScript SDK](https://github.com/brightdata/sdk-js)。完整 API 文档：[Amazon 爬虫工具 API](https://docs.brightdata.com/products/scrapers/amazon/introduction)。
+使用 [Bright Data JavaScript SDK](https://github.com/bright-cn/sdk-js)。完整 API 文档：[Amazon 爬虫工具 API](https://docs.brightdata.com/products/scrapers/amazon/introduction)。
 
 这里还提供：用于商品的一条命令 CLI，以及完全不需要 JavaScript 的 [Bright Data CLI](#编程智能体)。
 
