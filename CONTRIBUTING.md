@@ -1,27 +1,25 @@
-# Contributing
+# 参与贡献
 
-The most useful thing you can send us is a broken example.
+你能提供给我们的最有用信息是一个无法正常运行的示例。
 
-## Report a bug
+## 报告错误
 
-[Open an issue](https://github.com/brightdata/amazon-scraper-node/issues) and include:
+[提交 issue](https://github.com/bright-cn/amazon-scraper-node/issues)，并包含：
 
-- the command or the snippet you ran
-- what you expected, and what happened instead
-- your versions: `node --version` and `npm ls @brightdata/sdk`
+- 你运行的命令或代码片段
+- 你预期的结果，以及实际发生的情况
+- 你的版本信息：`node --version` 和 `npm ls @brightdata/sdk`
 
-Paste the error text rather than a screenshot of it. Never paste your API
-token, in an issue or anywhere else.
+请粘贴错误文本，而不是错误截图。绝不要在 issue 或任何其他地方粘贴你的 API 令牌。
 
-## Send a pull request
+## 提交拉取请求
 
-Before you push, check that:
+推送前，请确认：
 
-- `npm test` passes offline, with no token set
-- `npm run lint` is clean
-- every fenced block in the README still runs exactly as pasted
+- `npm test` 可在未设置令牌的情况下离线通过
+- `npm run lint` 没有问题
+- README 中每个围栏代码块仍可完全按照粘贴的内容运行
 
-## Account, credits and the API
+## 账户、积分和 API
 
-We cannot see your account from here, so those go to
-[Bright Data support](https://brightdata.zendesk.com/hc/en-us/requests/new).
+我们无法从这里查看你的账户，因此相关问题请联系 [Bright Data 支持团队](https://brightdata.zendesk.com/hc/en-us/requests/new)。
